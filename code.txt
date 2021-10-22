@@ -2,3 +2,8 @@ Hello!
 
 This is my first code. (Really?)
 
+<<<<<<< HEAD
+=======
+This is a config change
+
+>>>>>>> develop
